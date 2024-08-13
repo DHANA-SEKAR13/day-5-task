@@ -1,0 +1,39 @@
+{
+  "name": "DHANA SEKAR P",
+  "contactInformation": {
+    "email": "dhnskrdhana@gmail.com",
+    "phone": "7299144335",
+    "address": "No 12B Moogambigai Nagar, St Peters College Road, Avadi, Chennai, India",
+    "github": "https://github.com/DHANA-SEKAR13"
+  },
+  "summary": "Enthusiastic engineering student with a strong foundation in software development and a passion for learning new technologies. Proven ability to work in team environments through academic projects. Eager to apply problem-solving skills and technical knowledge in a real-world setting. Seeking internship opportunities to gain hands-on experience in the tech industry.",
+  "skills": [
+    "JavaScript"
+  ],
+  "experience": [
+    {
+      "company": "Sai Tech Solution",
+      "location": "Chennai, India",
+      "startDate": "January 2022",
+      "endDate": "Present",
+      ]
+    }
+  ],
+  "education": [
+    {
+      "college": "Panimalar Polytechnic",
+      "location": "Chennai, India",
+      "graduationDate": "May 2021"
+    },
+    {
+      "college": "Dr. M.G.R. Educational and Research Institute",
+      "location": "Chennai, India",
+      "graduationDate": "Expected May 2025"
+    }
+  ],
+  "languages": [
+    "English",
+    "Tamil"
+  ]
+}
+

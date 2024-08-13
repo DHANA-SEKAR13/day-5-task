@@ -1,0 +1,30 @@
+In JavaScript, the terms window, screen, and document refer to different objects that provide various interfaces to interact with the browser and the web page.
+
+1. window Object;
+ 
+    Overview: The window object represents the browser's window or tab in which the web page is loaded. It is the global object in the browser environment, meaning all global variables and functions are properties and methods of window.
+
+Role: It provides methods and properties to control the browser window, such as opening new windows, resizing the window, or accessing browser-specific functionality.
+
+
+
+2. document Object;
+
+    Overview: The document object represents the DOM (Document Object Model) of the web page loaded in the browser. It is a property of the window object.
+
+Role: It provides an interface to interact with and manipulate the HTML and content of the page. Through document, you can access, modify, and listen to events on HTML elements.
+
+3. screen Object;
+
+   Overview: The screen object provides information about the user's screen or monitor. Unlike window and document, which relate to the browser window and the content within it, screen relates to the entire display area of the device.
+
+Role: It provides properties that give information about the screen's dimensions and color depth.
+      
+
+      Summary of Differences;
+      
+window: Represents the browser window or tab. It is the global context and provides access to browser-specific features.
+
+document: Represents the content of the web page (DOM). It is used to manipulate HTML elements and interact with the structure of the page.
+
+screen: Represents the user's screen or display. It provides information about the screen's size and color capabilities.
